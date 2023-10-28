@@ -1,4 +1,4 @@
-<!--<img src="swanksoft-logo.png"-->
+<img src="github-header-image.png" >
 <!--img src="header1.svg" width="50%" height="300" align="left"-->
 <!--img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCoombs224&theme=react&layout=compact&hide=CMake&exclude_repo=Data-Structures-and-Algorithms,CS421-Translator,CS421-Parser-Project&langs_count=8," width="40%" height="275"-->
 <div align="left">
