@@ -4,7 +4,7 @@
 <div align="left">
   <br>
   I'm a Computer Science graduate from California State University, San Marcos, with a genuine passion for all facets of computing — both hardware and software. 
-  At present, I hold a position as a Software Application Tester at Boeing. My technical expertise encompasses a broad range of programming languages, including Java, 
+  At present, I hold a position as a Software QA Engineer at Boeing. My technical expertise encompasses a broad range of programming languages, including Java, 
   C++, Python, and more. You're welcome to review some of my work in the repositories linked here.
 </div>
 
