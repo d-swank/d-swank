@@ -19,7 +19,7 @@ Hey there — I'm a QA engineer who enjoys breaking things (in a good way). I’
   <li>🔧 Love working with automation, debugging, and tools that actually make life easier</li>
   <li>🧠 Always looking for ways to improve workflows and catch bugs early</li>
   <li>💬 Big fan of clear communication — saves everyone time</li>
-  <li>💻 Languages I enjoy using: <strong>Python</strong>, <strong>TypeScript</strong>, <strong>SQL</strong>, <strong>C++</strong></li>
+  <li>💻 Languages I am currently using: <strong>Python</strong>, <strong>TypeScript</strong>, <strong>SQL</strong>, <strong>C++</strong></li>
 </ul>
 
 <hr>
