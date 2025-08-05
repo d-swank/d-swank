@@ -29,7 +29,7 @@ Hey there — I'm a QA engineer who enjoys breaking things (in a good way). I’
 <ul>
   <li>🛠 Tools: Git, VS Code, Postman, SoapUI, TestComplete</li>
   <li>✅ Into: API testing, automation, CI/CD pipelines, and clean code</li>
-  <li>🧪 Low-key obsessed with solid test coverage that doesn’t suck to maintain</li>
+  <br>
 </ul>
 
 </td>
@@ -37,17 +37,9 @@ Hey there — I'm a QA engineer who enjoys breaking things (in a good way). I’
 <!-- Right Column -->
 <td width="48%" valign="top" align="center">
 
+<br>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-swank&langs_count=5&theme=github_dark&hide_border=true" width="100%" />
-
-<br><br>
-
-<a href="https://www.linkedin.com/in/d-swank" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:dakotaswank18@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
 
 </td>
   </tr>
