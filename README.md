@@ -27,7 +27,7 @@ Hey there — I'm a QA engineer who enjoys breaking things (in a good way). I’
 <h3>🛠 What I Use</h3>
 
 <ul>
-  <li>🛠 Tools: Git, VS Code, Postman, Pytest</li>
+  <li>🛠 Tools: Git, VS Code, Postman, SoapUI, TestComplete</li>
   <li>✅ Into: API testing, automation, CI/CD pipelines, and clean code</li>
   <li>🧪 Low-key obsessed with solid test coverage that doesn’t suck to maintain</li>
 </ul>
@@ -41,11 +41,11 @@ Hey there — I'm a QA engineer who enjoys breaking things (in a good way). I’
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+<a href="https://www.linkedin.com/in/d-swank" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="mailto:your.email@example.com">
+<a href="mailto:dakotaswank18@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
